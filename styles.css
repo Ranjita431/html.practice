@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-family: verdana;
+}
+h2{
+    color: green;   
+    font-family: arial;
+    font-size: 140%;
+}
+h3{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+h4{
+    color: purple;
+    font-family: tahoma;
+    font-size: 180%;
+}
